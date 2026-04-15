@@ -1,4 +1,5 @@
 from src.lib.configs import BASE_URL
+
 class BasePage:
     def __init__(self, page):
         self.page = page
